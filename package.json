@@ -1,0 +1,13 @@
+{
+  "name": "electron-window-drag",
+  "version": "0.5.0",
+  "description": "This is a plugin to easy configure window grag on frameless Electron windows.",
+  "repository": "pelayomendez/electron-window-drag",
+  "main": "window-drag.js",
+  "license": "ISC / MIT",
+  "keywords": [
+    "drag",
+    "window",
+    "electron"
+  ]
+}
